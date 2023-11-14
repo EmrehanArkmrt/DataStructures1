@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Project2
 {
-    class Müşteri
+    class Müşteri  //müşteri sınıfı
     {
         public Müşteri(string MüşteriAdı, int ÜrünSayısı)       //yapılandırıcı metod
         {
